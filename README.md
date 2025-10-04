@@ -1,3 +1,4 @@
+ HEAD
 
 # Week 3 — Python Calculator (CLI + Tkinter GUI)
 
@@ -35,3 +36,6 @@ python gui.py
 pip install pytest
 pytest -q
 ```
+=======
+# gui-calculator
+ 2fef3a98ed12781b5efc691e7a12f2007ea8bb31
